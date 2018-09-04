@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<breakfast_menu>
+<food>
+    <name>Macroons</name>
+    <price>Rs.45</price>
+    <description>
+  A packet of our famous Macrroons
+   </description>
+    <calories>650</calories>
+</food>
+<food>
+    <name>Burger Wall</name>
+    <price>Rs.120</price>
+    <description>
+    Light Fat Burger Wall equals the famous Tower Burger
+    </description>
+    <calories>900</calories>
+</food>
+<food>
+    <name>Masala Tea</name>
+    <price>Rs.85</price>
+    <description>
+    Blesses you with refreshment..!!
+    </description>
+    <calories>900</calories>
+</food>
+<food>
+    <name>French Toast</name>
+    <price>Rs.50</price>
+    <description>
+    Thick slices made from our homemade sourdough bread
+    </description>
+    <calories>600</calories>
+</food>
+<food>
+    <name>Homestyle Breakfast</name>
+    <price>Rs.95</price>
+    <description>
+    Two eggs, bacon or sausage, toast, and our ever-popular hash browns
+    </description>
+    <calories>950</calories>
+</food>
+</breakfast_menu>
+ 
+
