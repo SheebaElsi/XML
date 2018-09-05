@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nitf>
+  <head>
+    <title>Airport Incident</title>
+  </head>
+  <body>
+    <headline>
+      <hl1>Dispute between Party Leader and a Commoner</hl1>
+    </headline>
+    <byline>
+      <bytag>By Sheeba Elsi, Associated Press Writer</bytag>
+    </byline>
+    <dateline>
+      <location>Tutucorin, India</location>
+      <date>Tuesday September 04 1999 7:28 GMT</date>
+    </dateline>
+  </body>
+</nitf>
